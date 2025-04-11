@@ -3,6 +3,8 @@
 ## 📘 Project Overview
 This project focuses on web scraping news headlines from various sources using Python libraries such as **BeautifulSoup** and **Selenium**. The scraped data is intended for use in downstream NLP tasks like claim verification, misinformation detection, and more.
 
+💡 This notebook is capable of web scraping **dynamic websites** by leveraging Selenium, allowing interaction with JavaScript-rendered content.
+
 ---
 
 ## 🔧 Technologies Used
